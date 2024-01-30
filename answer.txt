@@ -9,3 +9,8 @@ c)  Sprint Planning Meeting :-   Plan tasks for the sprint (specific, can be com
     Sprint Retrospective Meeting:- Look back on completed sprint
                                    Assess weak points, move unfinished tasks to backlog
     Scrum Meeting:- Daily meetings to discuss what was completed yesterday, what will be completed today and any blockers.
+
+d)  Epic: Captures a large body of work that can be broken down into several smaller stories
+    Story: A software system requirement that is expressed in a few short sentences
+    Bug: blocks few tasks that may have an issue and notifies the user there is a problem
+    Task: It determines the work that needs to be executed by the developers.
