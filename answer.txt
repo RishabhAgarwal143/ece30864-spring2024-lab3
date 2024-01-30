@@ -1,2 +1,6 @@
 a)  Product manager and developers are equivalent to product owner in a non agile project.
     In Agile Methodology ,the product owner informs the developers about what they want in the product that includes the features.
+
+b) The scrum master create a plan for the product based on the customers input and makes sure the product is being made efficently and effectively whereas the product owner 
+    lists the features they want in the product.
+    
