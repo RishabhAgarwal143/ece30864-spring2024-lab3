@@ -3,4 +3,9 @@ a)  Product manager and developers are equivalent to product owner in a non agil
 
 b) The scrum master create a plan for the product based on the customers input and makes sure the product is being made efficently and effectively whereas the product owner 
     lists the features they want in the product.
-    
+
+c)  Sprint Planning Meeting :-   Plan tasks for the sprint (specific, can be completed)
+                                 Task Effort estimation and Task allocation
+    Sprint Retrospective Meeting:- Look back on completed sprint
+                                   Assess weak points, move unfinished tasks to backlog
+    Scrum Meeting:- Daily meetings to discuss what was completed yesterday, what will be completed today and any blockers.
